@@ -10,7 +10,7 @@
     "eslint-plugin-flowtype": "^2.29.1",
     "eslint-plugin-jsx-a11y": "^3.0.2",
     "eslint-plugin-react": "^6.8.0",
-    "react-scripts": "1.1.1",
+    "react-scripts": "1.1.5",
     "stylus": "0.54.5"
   },
   "dependencies": {
