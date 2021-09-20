@@ -6,7 +6,7 @@
     "autoprefixer-stylus": "0.10.0",
     "babel-eslint": "^7.1.1",
     "concurrently": "3.0.0",
-    "eslint": "^6.0.0",
+    "eslint": "^7.16.0",
     "eslint-plugin-flowtype": "^2.29.1",
     "eslint-plugin-jsx-a11y": "^3.0.2",
     "eslint-plugin-react": "^6.8.0",
@@ -20,7 +20,7 @@
     "react-addons-css-transition-group": "15.3.2",
     "react-dom": "15.3.2",
     "react-router": "4.0.0-alpha.4",
-    "snyk": "^1.317.0"
+    "snyk": "^1.465.0"
   },
   "scripts": {
     "start": "react-scripts start",
