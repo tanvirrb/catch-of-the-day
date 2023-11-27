@@ -4,7 +4,7 @@
   "private": true,
   "devDependencies": {
     "autoprefixer-stylus": "0.10.0",
-    "babel-eslint": "^7.1.1",
+    "babel-eslint": "^8.0.2",
     "concurrently": "3.0.0",
     "eslint": "^6.0.0",
     "eslint-plugin-flowtype": "^2.29.1",
@@ -20,7 +20,7 @@
     "react-addons-css-transition-group": "15.3.2",
     "react-dom": "15.3.2",
     "react-router": "4.0.0-alpha.4",
-    "snyk": "^1.317.0"
+    "snyk": "^1.685.0"
   },
   "scripts": {
     "start": "react-scripts start",
